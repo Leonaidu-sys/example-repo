@@ -1,0 +1,11 @@
+This program logic helps customers calculate the total cost of a holiday trip based on their choice travel destination between three prescribed options, hotel stay based on length of stay, and car rental needs.
+
+How it works:
+The program prompts the user to select a destination from a predefined list.
+The user enters the number of hotel nights and the number of days for car rental.
+
+The program calculates:
+Flight cost – Based on destination (three destinations)
+Accommodation cost – Per-night rate depending on destination.
+Car rental cost – Fixed daily rate.
+It then returns a full cost breakdown along with the total holiday cost.
